@@ -13,3 +13,5 @@ TODO:
   refactor code
   split config into seperate file for convenient source control
   automated build / minify
+
+![Facebook Where Are They Now Screenshot](/screenshot.png?raw=true "Facebook Where Are They Now Screenshot")

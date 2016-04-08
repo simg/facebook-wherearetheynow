@@ -1,5 +1,5 @@
 <?php
-$app_id = '000000000000000';
+$app_id = '0000000000000';
 $app_namespace = 'wheretheynow';
 ?>
 <!DOCTYPE html>
@@ -36,7 +36,7 @@ if ($_SERVER["REMOTE_ADDR"] == '89.213.26.67') {
 <script>
   //google analytics
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-00000000-0']);
+  _gaq.push(['_setAccount', 'UA-000000000-0']);
   _gaq.push(['_trackPageview']);
 
   (function() {
