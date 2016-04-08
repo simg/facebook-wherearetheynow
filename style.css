@@ -1,0 +1,67 @@
+BODY {
+  font-family:tahoma, arial, verdana, sans-serif;
+}
+
+#header {
+  height:315px;
+  width:851px;
+  background:url(images/mozura/greenman.jpg) no-repeat;
+}
+
+#header H1 {
+  color:#fff;
+  padding:10px 20px; 
+}
+
+#vote_data {
+  max-width:851px;
+}
+
+#must_vote {
+
+
+}
+
+#must_vote .message {
+  background:#fef5f1 url(images/message-24-error.png) no-repeat 15px 18px;
+  border:1px solid #ed541d;
+  max-width:783px;
+  padding:0px 15px 15px 50px;
+  margin:30px 0px 30px 0px;
+}
+
+#content {
+
+    font-size:90%;
+}
+
+.column {
+  width:33%;
+  float:left;
+  margin-bottom:2em;
+}
+
+ul.list {
+    list-style:none;
+    margin:10px 0;
+    padding:0;
+}
+
+ul.list li {
+  clear:both;
+  margin:0 0 25px 0;
+  padding:0;
+}
+
+.pic_small {
+  float:left; 
+  width:80px;
+}
+
+.friend_count:before {
+ content:"friends: ";
+}
+
+.likes_count:before {
+ content:"other likes: ";
+} 
